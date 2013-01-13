@@ -1,0 +1,35 @@
+<!--  
+  "THE WINE-WARE LICENSE" Version 1.0:
+  Carmen Alvarez wrote this file. As long as you retain this notice you
+  can do whatever you want with this stuff. If we meet some day, and you think
+  this stuff is worth it, you can buy me a glass of wine in return. 
+  
+  THE AUTHOR OF THIS FILE IS NOT RESPONSIBLE FOR LOSS OF LIFE, LIMBS, SELF-ESTEEM,
+  MONEY, RELATIONSHIPS, OR GENERAL MENTAL OR PHYSICAL HEALTH CAUSED BY THE
+  CONTENTS OF THIS FILE OR ANYTHING ELSE.
+--> 
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <EditText
+        android:id="@+id/txt_search"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Enter postal code" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="getForecast"
+        android:text="Submit" />
+
+    <TextView
+        android:id="@+id/txt_forecast"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
