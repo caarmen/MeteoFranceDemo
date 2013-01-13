@@ -1,11 +1,12 @@
 /*
  * ----------------------------------------------------------------------------
  * "THE WINE-WARE LICENSE" Version 1.0:
- * Carmen Alvarez wrote this file. As long as you retain this notice you
- * can do whatever you want with this stuff. If we meet some day, and you think
- * this stuff is worth it, you can buy me a glass of wine in return. 
+ * Authors: Carmen Alvarez. 
+ * As long as you retain this notice you can do whatever you want with this stuff. 
+ * If we meet some day, and you think this stuff is worth it, you can buy me a 
+ * glass of wine in return. 
  * 
- * THE AUTHOR OF THIS FILE IS NOT RESPONSIBLE FOR LOSS OF LIFE, LIMBS, SELF-ESTEEM,
+ * THE AUTHORS OF THIS FILE ARE NOT RESPONSIBLE FOR LOSS OF LIFE, LIMBS, SELF-ESTEEM,
  * MONEY, RELATIONSHIPS, OR GENERAL MENTAL OR PHYSICAL HEALTH CAUSED BY THE
  * CONTENTS OF THIS FILE OR ANYTHING ELSE.
  * ----------------------------------------------------------------------------
